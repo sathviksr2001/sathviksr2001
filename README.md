@@ -29,8 +29,6 @@
 
 ---
 
----
-
 ## 🔥 Notable Projects
 
 ### 📺 YouTube Trend Analyzer (Real-Time)
@@ -41,7 +39,7 @@
 ![YouTube API](https://img.shields.io/badge/API-YouTube%20Data%20v3-red?logo=youtube)
 ![ML Pipeline](https://img.shields.io/badge/Pipeline-Real%20Time-blue?logo=fastapi)
 [![Live Demo](https://img.shields.io/badge/Demo-Gradio-informational?logo=gradio)](#)
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/youtube-trend-analyzer)
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/YouTube-Trend-Analyzer-with-Sentiment-Privacy-Risk-Detection)
 
 ### 🛒 E-Commerce Product Recommender
 
@@ -50,7 +48,7 @@
 ![Recommendation](https://img.shields.io/badge/Approach-Hybrid-green?logo=scikitlearn)
 ![Collaborative](https://img.shields.io/badge/Filtering-Collaborative-yellow)
 ![Content Based](https://img.shields.io/badge/Filtering-Content%20Based-purple)
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/ecommerce-recommender)
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/E-commerce-product-recommendation)
 
 ### 📊 GitHub Profile Optimizer & Insights Dashboard
 
@@ -58,15 +56,7 @@
 ![REST API](https://img.shields.io/badge/API-GitHub%20REST%20API-green?logo=github)
 ![Visualization](https://img.shields.io/badge/Charts-Recharts-orange?logo=recharts)
 ![Dashboard](https://img.shields.io/badge/Tool-GitHub%20Insights-purple)
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/github-profile-insight)
-
-### 🧾 Inventory Management System
-
-![Java](https://img.shields.io/badge/Language-Java-red?logo=java)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
-![CRUD](https://img.shields.io/badge/Operations-Full%20CRUD-green?logo=mysql)
-![Backend](https://img.shields.io/badge/Backend-Servlets%20%2B%20JDBC-black?logo=java)
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/inventory-management-java)
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/GitHub-Profile-Optimizer-Insights-Dashboard)
 
 ---
 
