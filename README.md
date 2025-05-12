@@ -82,7 +82,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Sathvik%20S%20R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathvik-sr)](https://www.linkedin.com/in/sathvik-sr)
+[![LinkedIn](https://img.shields.io/badge/-Sathvik%20S%20R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathviksr)](https://www.linkedin.com/in/sathviksr)
 [![GitHub](https://img.shields.io/badge/-sathviksr2001-black?style=flat-square&logo=github)](https://github.com/sathviksr2001)
 
 ---
