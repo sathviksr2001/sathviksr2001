@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Sathvik S R</h1>
-<h3 align="center">A Passionate Software Test Engineer & ML Enthusiast | E-Commerce & Privacy-Aware AI Projects</h3>
+<h3 align="center">A Passionate Software Enthusiasts</h3>
 
 ---
 
-🌟 I'm a Master's student at Manipal Institute of Technology with 3.3+ years of experience in QA for E-Commerce systems (Salesforce Commerce Cloud).
 
 🔬 Currently working on:
 - 🤖 **Privacy Attack Detection in ML** using CNNs & Gradient Boosting
@@ -30,14 +29,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathviksr2001&show_icons=true&theme=radical" alt="Sathvik's GitHub stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathviksr2001&layout=compact&theme=radical"/>
-</p>
 
 ---
 
@@ -95,5 +86,3 @@
 [![GitHub](https://img.shields.io/badge/-sathviksr2001-black?style=flat-square&logo=github)](https://github.com/sathviksr2001)
 
 ---
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sathviksr2001.sathviksr2001)
