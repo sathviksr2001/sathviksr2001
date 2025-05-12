@@ -11,7 +11,7 @@
 - 🔍 **GitHub Profile Optimizer Dashboard**
 - 🛒 **E-Commerce Recommendation System** with collaborative + content-based filtering
 
-📫 Reach me at **sathviksr2001@gmail.com**
+📫 Reach me at **sathviks.r2001@gmail.com**
 
 ---
 
