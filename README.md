@@ -6,7 +6,6 @@
 
 
 🔬 Currently working on:
-- 🤖 **Privacy Attack Detection in ML** using CNNs & Gradient Boosting
 - 📊 **YouTube Trend Analyzer** with real-time predictions & Gradio UI
 - 🔍 **GitHub Profile Optimizer Dashboard**
 - 🛒 **E-Commerce Recommendation System** with collaborative + content-based filtering
@@ -33,15 +32,6 @@
 ---
 
 ## 🔥 Notable Projects
-
-### 🔐 Privacy Attack Detection Using CNN + XGBoost
-
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
-![CNN](https://img.shields.io/badge/Model-CNN-green?logo=tensorflow)
-![XGBoost](https://img.shields.io/badge/Classifier-XGBoost-orange?logo=apache-spark)
-![Dataset](https://img.shields.io/badge/Dataset-CIFAR10-yellow?logo=github)
-![Privacy](https://img.shields.io/badge/Privacy-Risk%20Score-red?style=flat&logo=shield)
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/privacy-leak-detector)
 
 ### 📺 YouTube Trend Analyzer (Real-Time)
 
