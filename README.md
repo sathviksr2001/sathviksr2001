@@ -66,3 +66,4 @@
 [![GitHub](https://img.shields.io/badge/-sathviksr2001-black?style=flat-square&logo=github)](https://github.com/sathviksr2001)
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sathviksr2001)](https://git.io/streak-stats)
