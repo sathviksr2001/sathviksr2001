@@ -67,4 +67,6 @@
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sathviksr2001)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sathviksr2001&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
