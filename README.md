@@ -58,6 +58,14 @@
 ![Dashboard](https://img.shields.io/badge/Tool-GitHub%20Insights-purple)
 [![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/GitHub-Profile-Optimizer-Insights-Dashboard)
 
+### 💰 Personal Finance Tracker
+
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Authentication](https://img.shields.io/badge/Backend-Firebase-yellow?logo=firebase)
+![CSS](https://img.shields.io/badge/Styling-TailwindCSS-blue?logo=tailwindcss)
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/finance-tracker)
+
+
 ---
 
 ## 📫 Connect with Me
