@@ -63,7 +63,7 @@
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Authentication](https://img.shields.io/badge/Backend-Firebase-yellow?logo=firebase)
 ![CSS](https://img.shields.io/badge/Styling-TailwindCSS-blue?logo=tailwindcss)
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/finance-tracker)
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/Personal-Finance-Tracker-React-Firebase-Chart.js-)
 
 
 ---
