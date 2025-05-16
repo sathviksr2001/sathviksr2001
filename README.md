@@ -79,6 +79,6 @@
 <h3 align="left">🏆 GitHub Achievements</h3>
 
 <p align="left">
-  <img src="https://github.com/sathviksr2001/sathviksr2001/blob/main/assets/pull-shark.svg" alt="Pull Shark" width="50"/>
-  <img src="https://github.com/sathviksr2001/sathviksr2001/blob/main/assets/starstruck.svg" alt="Starstruck" width="50"/>
+  <img src="https://github.com/sathviksr2001/blob/main/assets/pull-shark.svg" alt="Pull Shark" width="50"/>
+  <img src="https://github.com/sathviksr2001/blob/main/assets/starstruck.svg" alt="Starstruck" width="50"/>
 </p>
