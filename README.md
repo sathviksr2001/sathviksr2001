@@ -76,3 +76,9 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=sathviksr2001&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
+<h3 align="left">🏆 GitHub Achievements</h3>
+
+<p align="left">
+  <img src="https://github.com/sathviksr2001/sathviksr2001/blob/main/assets/pull-shark.svg" alt="Pull Shark" width="50"/>
+  <img src="https://github.com/sathviksr2001/sathviksr2001/blob/main/assets/starstruck.svg" alt="Starstruck" width="50"/>
+</p>
