@@ -82,9 +82,3 @@
   <img src="https://github.com/sathviksr2001/sathviksr2001/blob/main/assets/pull-shark.png?raw=true" width="80" alt="Pull Shark"/>
   <img src="https://github.com/sathviksr2001/sathviksr2001/blob/main/assets/starstruck.png?raw=true" width="80" alt="Starstruck"/>
 </p>
-
-<p align="center">
-  <b>🌟 Starstruck</b> — Received a star on a repository <br>
-  <b>🦈 Pull Shark</b> — Merged a pull request
-</p>
-
