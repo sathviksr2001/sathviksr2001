@@ -39,7 +39,7 @@
 ![YouTube API](https://img.shields.io/badge/API-YouTube%20Data%20v3-red?logo=youtube)
 ![ML Pipeline](https://img.shields.io/badge/Pipeline-Real%20Time-blue?logo=fastapi)
 [![Live Demo](https://img.shields.io/badge/Demo-Gradio-informational?logo=gradio)](#)
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/YouTube-Trend-Analyzer-with-Sentiment-Privacy-Risk-Detection)
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/YouTube-Trend-Analyzer-with-Sentiment-and-Privacy-Risk-Detection)
 
 ### 🛒 E-Commerce Product Recommender
 
