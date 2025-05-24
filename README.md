@@ -26,8 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50" height="50"/>
-  <img src="https://gradio.app/assets/img/logo.png" alt="Gradio" width="50" height="50"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" width="50" height="50"/>
+  <img src="https://i.postimg.cc/vmV57nPm/Gradio.jpg" alt="Gradio" width="50" height="50"/>
+  <img src="https://i.postimg.cc/PJtfxGpj/github-actions.jpg" alt="GitHub Actions" width="50" height="50"/>
 </p>
 
 
