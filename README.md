@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50"/>
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"/>
   <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50"/>
   <img src="https://i.postimg.cc/vmV57nPm/Gradio.jpg" alt="Gradio" width="50" height="50"/>
 </p>
