@@ -85,15 +85,18 @@
 ---
 ## 📈 Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 10px; flex-wrap: nowrap;">
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathviksr2001&theme=github-dark&hide_border=false" height=300 width="350" />
+  <!-- GitHub Streaks with fixed dimensions -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathviksr2001&theme=github-dark&hide_border=false" width="350" height="200" />
 
-  <!-- Top Languages Card (visually balanced using margin-top) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathviksr2001&layout=compact&langs_count=10&theme=github_dark" width="350" style="margin-top: 15px;" />
+  <!-- Top Languages inside a container to stretch height -->
+  <div style="background: transparent; width: 350px; height: 200px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathviksr2001&layout=compact&langs_count=10&theme=github_dark" width="330" />
+  </div>
 
 </div>
+
 
 
 
