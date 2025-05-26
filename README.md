@@ -4,7 +4,6 @@
 </h1>
 
 <h3 align="center">A Passionate Software Enthusiasts</h3>
-
 ---
 
 
@@ -15,6 +14,7 @@
 
 📫 Reach me at **sathviks.r2001@gmail.com**
 
+![Visitors](https://komarev.com/ghpvc/?username=sathviksr2001&color=blue&style=flat)
 ---
 
 ## 🛠️ Technologies & Tools
@@ -96,8 +96,4 @@
   </div>
 
 </div>
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=sathviksr2001&color=blue&style=flat)
 ---
