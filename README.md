@@ -87,11 +87,11 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathviksr2001&theme=github-dark&hide_border=false" height="200" width="350"/>
+ <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathviksr2001&theme=github-dark&hide_border=false" height="200" />
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathviksr2001&layout=compact&langs_count=10&theme=github_dark" height="200" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathviksr2001&layout=compact&langs_count=10&theme=github_dark" height="200" />
 
 </div>
 
