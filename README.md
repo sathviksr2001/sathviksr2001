@@ -87,5 +87,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sathviksr2001&theme=dark&hide_border=true)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathviksr2001&layout=compact&langs_count=10&theme=github_dark)
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathviksr2001&show_icons=true&theme=github_dark" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathviksr2001&layout=compact&langs_count=10&theme=github_dark" height="200" />
+</div>
+
 
 ---
