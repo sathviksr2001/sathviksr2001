@@ -88,7 +88,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathviksr2001&theme=github-dark&hide_border=false" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathviksr2001&theme=github-dark&hide_border=false" height=200 width="350" />
 
   <!-- Top Languages Card (visually balanced using margin-top) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathviksr2001&layout=compact&langs_count=10&theme=github_dark" width="350" style="margin-top: 15px;" />
