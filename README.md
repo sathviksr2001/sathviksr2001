@@ -85,8 +85,6 @@
 ---
 ## 📈 Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-
  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathviksr2001&theme=github-dark&hide_border=false" height="200" />
 
