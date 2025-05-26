@@ -86,4 +86,7 @@
 ## 📈 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sathviksr2001&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathviksr2001&layout=compact&langs_count=10&theme=github_dark)
+
 ---
