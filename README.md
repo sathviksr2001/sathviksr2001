@@ -10,8 +10,6 @@
 - 🔍 **GitHub Profile Optimizer Dashboard**
 - 🛒 **E-Commerce Recommendation System** with collaborative + content-based filtering
 
-📫 Reach me at **sathviks.r2001@gmail.com**
-
 ![Visitors](https://komarev.com/ghpvc/?username=sathviksr2001&color=blue&style=flat)
 
 ---
@@ -73,14 +71,28 @@
 ![CSS](https://img.shields.io/badge/Styling-TailwindCSS-blue?logo=tailwindcss)
 [![View Project](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/sathviksr2001/Personal-Finance-Tracker-React-Firebase-Chart.js-)
 
-
 ---
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://x.com/Timmi_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiiimmiiii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tiimmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Oluwole" height="30" width="40" /></a>
+<a href="mailto:sathviks.r2001@gmail.com" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="40" height="40" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sathviksr2001" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn-Dark.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/sathviksr2001" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TwitterX-Dark.svg" width="40" height="40" alt="X"/>
+</a>
+&nbsp;
+<a href="https://x.com/SATHVIK_SR" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TwitterX-Dark.svg" width="40" height="40" alt="X"/>
+</a>
 </p>
 ---
+
 ## 📈 Stats
 
 <div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 10px; flex-wrap: nowrap;">
@@ -94,4 +106,5 @@
   </div>
 
 </div>
+
 ---
