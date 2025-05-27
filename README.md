@@ -82,7 +82,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sathviksr" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn-Dark.svg" width="40" height="40" alt="LinkedIn"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://x.com/SATHVIK_SR" target="_blank">
