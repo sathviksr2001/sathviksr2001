@@ -12,7 +12,7 @@
 - 🔍 **GitHub Profile Optimizer Dashboard**
 - 🛒 **E-Commerce Recommendation System** with collaborative + content-based filtering
 
-![Visitors](https://komarev.com/ghpvc/?username=sathviksr2001&color=blue&style=flat)
+![VISITS](https://komarev.com/ghpvc/?username=sathviksr2001&color=blue&style=flat)
 
 ---
 
