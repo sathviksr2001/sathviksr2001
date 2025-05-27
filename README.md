@@ -4,7 +4,9 @@
 </h1>
 
 <h3 align="center">A Passionate Software Enthusiasts</h3>
+
 ---
+
 🔬 Currently working on:
 - 📊 **YouTube Trend Analyzer** with real-time predictions & Gradio UI
 - 🔍 **GitHub Profile Optimizer Dashboard**
@@ -83,14 +85,11 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn-Dark.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://x.com/sathviksr2001" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TwitterX-Dark.svg" width="40" height="40" alt="X"/>
-</a>
-&nbsp;
 <a href="https://x.com/SATHVIK_SR" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TwitterX-Dark.svg" width="40" height="40" alt="X"/>
 </a>
 </p>
+
 ---
 
 ## 📈 Stats
