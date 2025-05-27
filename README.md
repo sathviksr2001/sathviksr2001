@@ -80,7 +80,7 @@
 <a href="mailto:sathviks.r2001@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="40" height="40" alt="Gmail"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/sathviksr" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
