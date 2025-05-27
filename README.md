@@ -85,9 +85,6 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://x.com/SATHVIK_SR" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TwitterX-Dark.svg" width="40" height="40" alt="X"/>
-</a>
 </p>
 
 ---
