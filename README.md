@@ -81,7 +81,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="40" height="40" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sathviksr2001" target="_blank">
+<a href="https://www.linkedin.com/in/sathviksr" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn-Dark.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;
