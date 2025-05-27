@@ -5,8 +5,6 @@
 
 <h3 align="center">A Passionate Software Enthusiasts</h3>
 ---
-
-
 🔬 Currently working on:
 - 📊 **YouTube Trend Analyzer** with real-time predictions & Gradio UI
 - 🔍 **GitHub Profile Optimizer Dashboard**
@@ -15,6 +13,7 @@
 📫 Reach me at **sathviks.r2001@gmail.com**
 
 ![Visitors](https://komarev.com/ghpvc/?username=sathviksr2001&color=blue&style=flat)
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -76,12 +75,11 @@
 
 
 ---
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-Sathvik%20S%20R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathviksr)](https://www.linkedin.com/in/sathviksr)
-[![GitHub](https://img.shields.io/badge/-sathviksr2001-black?style=flat-square&logo=github)](https://github.com/sathviksr2001)
-
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://x.com/Timmi_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiiimmiiii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tiimmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Oluwole" height="30" width="40" /></a>
+</p>
 ---
 ## 📈 Stats
 
